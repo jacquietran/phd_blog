@@ -1,0 +1,40 @@
+---
+title: 'Sketchnotes: AFL Grand Final Symposium 2017 + timelapse video!'
+author: Jacquie Tran
+date: '2017-10-02'
+slug: sketchnotes-afl-grand-final-symposium-2017-timelapse-video/
+categories:
+  - Applied Sport Science
+  - Conferences
+  - Sketchnotes
+tags:
+  - afl
+  - afl symposium
+  - applied sport science
+  - australian football
+  - sketchnotes
+  - sport science
+  - video
+---
+
+This year's AFL Grand Final Symposium took place on Friday 29th September, 2017. These days, I usually attend any seminar, symposium, or conference with my sketchnoting gear* in tow. This time, I decided to travel light. I live-tweeted periodically throughout the day, as did a few others, but I didn't do any live sketchnoting as I normally would.
+
+I've been thinking for a while (years, really) about capturing my sketchnoting process as it happens. Then it struck me – with key messages from the symposium fresh in my mind, I could easily create a post hoc sketchnote of the event while capturing the process as a screen recording. Three tutorials and some new software installations later, *et voila* – **here’s a timelapse video that demonstrates my sketchnoting process from start to finish.** It captures, in ~2 min, what actually took me over 2 hours to create in real time. Enjoy!
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/PJlTEpaEAYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+And here’s the finished product, featuring comments from:
+
+- Andrew Russell (Elite Performance Manager, Hawthorn FC; [**@jackrussellEP**](https://twitter.com/jackrussellEP))
+- Andrea Farrow (Player Development Coordinator, St Kilda FC; [**@andyleefarrow**](https://twitter.com/andyleefarrow))
+- Michelle Cowan (Senior Coach – AFLW, Fremantle FC; [**@mishcowan**](https://twitter.com/mishcowan))
+- Aasta O’Connor (AFLW player – Western Bulldogs FC & AFL Women’s Academy Manager; [**@AastaOConnor**](https://twitter.com/aastaoconnor))
+
+![Sketchnotes by Jacquie Tran from the 2017 Australian Football League Grand Final Symposium](static/img/afl-grand-final-symposium-2017.png)
+
+*For those inquiring minds who want to know what I use to create my sketchnotes, here’s the nitty gritty:*
+
+- *iPad 3*
+- *GoodNotes app*
+- *Adonit Jot Pro stylus*
+- *I write and draw by hand (i.e., the text you see is my handwriting – not a typeface!)*
