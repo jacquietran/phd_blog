@@ -2,6 +2,7 @@
 title: Connection
 author: Jacquie Tran
 date: '2018-08-05'
+slug: connection
 categories:
   - Inspiration
 tags:
