@@ -1,0 +1,119 @@
+---
+title: Productivity in PhD Life
+author: Jacquie Tran
+date: '2015-06-08'
+slug: productivity-in-phd-life
+categories:
+  - How I Work
+  - Musings
+  - Productivity
+  - Project Management
+  - Writing
+tags:
+  - academic writing
+  - PhD
+  - productivity
+---
+
+*This post has been co-authored with **Sheree Bekker**, a PhD student at Federation University whose research focuses on safety in sport. We came to know each other through Twitter (you can follow / tweet her here: [**@shereebekker**](https://twitter.com/shereebekker)), then met in person at the 2014 Australian Conference of Science and Medicine in Sport. With similar interests, this blog post has been on the cards for months, sitting in my drafts mostly due to my procrastinating... Ironic really, given the topic! Anyway, it was great to put some of these ideas down on paper, and fascinating to see things from Sheree's perspective. We hope other research degree students and academics find it interesting and useful too :)*
+
+*****
+
+### What does productivity mean to you and why do you pursue it?
+
+**Sheree Bekker (SB):** I started my PhD ready to take on the world and participate in everything, and yes by everything I do mean *everything*.  It took about a year of trying to do too much before I realised that I was, well, trying to do too much. I was consuming more than I was creating. My priority—my PhD—was lost in the noise of opportunity. I subscribed to the school of "the more you have to do, the more you do", but I felt that I was not giving the best version to any of it. Deciding what is essential, and cutting myself some slack with the rest has been invaluable lesson. An explicitly defined PhD workspace with a roadmap that includes projects, lists, and deadlines is how I pursue productivity – yes I am a list person. Having said that, I have also learned that, in research, the process is progress in itself.
+
+**Jacquie Tran (JT):** Productivity to me is about progressing important projects. But it is important to identify the difference between activity and progress. Ticking tasks off a to-do list can be enjoyable, but if those tasks are not progressing the *real work* you have to do, then it’s not productive. Having said that, in academia / knowledge work, the challenge is to trust the process, because you will have setbacks and most academic projects do not follow a linear sequence of events to completion. Progress doesn’t have to be moving forward. Sometimes progress is taking a step back, pausing the clock to evaluate where you are compared to where you were, and where you’d like to go. Sometimes progress is cutting your losses when a project is not working out.
+
+![](/img/phd050399s.gif)
+*(via [PhDComics](http://phdcomics.com/comics/archive.php?comicid=124))*
+
+### Do you think that we should take breaks from the quest for productivity?  Why / why not?
+
+**SB:** To me, for the longest time, productivity meant ACHIEVE and PERFECTION and CONTROL. A perfect storm, in my mind. Taking the control away from the notion of productivity, and placing the achievement squarely in the hands of [**essentialism**](www.npr.org/2014/07/26/334038029/lessons-in-essentialism-getting-more-out-of-life-by-doing-less) has allowed me to remove the crippling perfection that broke my productivity camel's back. Again, learning to trust the process when I felt unproductive was an important lesson for me.
+
+**JT:** YES YES YES TO BREAKS, ABSOLUTELY YES. I don't subscribe to the idea of 8-hour work days for knowledge workers. In my experience, my capacity to do deep thinking and focused writing on any given day is much less than 8 hours! Oftentimes, I've progressed important projects far more on days where I've dedicated 2–4 hours to this kind of deep work, compared to logging long days in the office. Nevertheless, the long days do teach you valuable lessons. They teach you about the capacity to push through fatigue, and they give you an opportunity to weigh up the things you care about. Is this endeavour so important to you that it's worth it to miss out on other important things? The right answer to this question is going to be different for everyone, and will change for an individual at different times in their careers.
+
+I believe there is also value in leaving a little bit in the tank for tomorrow! I try to finish each day by leaving something a little unfinished, a platform for the work to start from tomorrow. This could be as simple as a leading sentence, a series of framing questions, or a stimulating thought or idea that I've picked up from somewhere. Just enough of a thread to kickstart my next writing session.
+
+*Note from SB: YES!!! I completely agree. Focused-work triumphs busy-work.*
+
+![](/img/focus.gif)
+
+### Describe how you manage your PhD progress. What habits help you to take your PhD from start to finish?
+
+**SB:** Start by defining your priority. What is essential? Cut everything else out. *This may mean that seemingly superficial pursuits like networking on Twitter become an essential—and yes that is okay!*
+
+I then make a list called "what is done when it is done". A colleague recently taught me this technique, and because I am a list person, I was immediately hooked. This list includes every single step that needs to be ticked off for a project to be considered done. *For me, this is every tiny detail, even including the dissemination of my research via Twitter, up to the moment when I am eventually sitting on a beach somewhere exotic updating my Facebook status with "PhD done!"*
+
+[**Asana**](https://asana.com/) has been a lifesaver for me. This is an online tool that allows you to create workspaces, projects, lists and tasks. *As I said, I am a list person.* Asana is where I make my "what is done when it is done" lists. Asana is also integrated with [**InstaGANTT**](https://instagantt.com/), which allows for timeline tracking. Setting these up does take some time, but you will reap the rewards in the long run.
+
+I recently went paperless. I work from a few different workspaces (home, office, coffee shops, train), and lugging files around was just not working for me. My Macbook Air (lightweight enough to carry around), iPad, and iPhone are now all synced, allowing me to do my research from anywhere. In the world of academic nomads, I have found going paperless an invaluable process. I often hear people say that they just *need* to have a hard copy in front of them to work, but I chose to train myself to work digitally, and was shocked at how much unnecessary printing I was doing before. I must admit that it was difficult for me to give up my physical diary, but in the end the shuffling of appointments and tasks just got too frustrating. Digital is so much simpler.
+
+Software is designed to make your life easier. Take the time to experiment and find what works for you, not the other way around. I started with [**Evernote**](https://evernote.com) as my information management system, but found that it is just not intuitive for me personally. Currently I am using a combination [**Scrivener**](https://www.literatureandlatte.com/scrivener/overview) (cannot tell you how much I love that program), [**NVivo**](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home) (for information management), [**Dropbox**](https://www.dropbox.com/), EndNote, Asana and InstaGANTT. Great software is so much cleaner.
+
+Finally, I am a huge fan of [**"Shut Up And Write"**](https://thesiswhisperer.com/shut-up-and-write/) and [**pomodoro techniques**](https://en.wikipedia.org/wiki/Pomodoro_Technique). How much work I am able to accomplish in 4 × 25-minute pomodoros still amazes me, especially with the audience effect of group "Shut Up And Write" sessions in coffee shops or on Twitter.
+
+![](/img/pomodoro_image.gif)
+
+### What habits help you to take writing projects from start to finish?
+
+**JT:** A couple of years ago, I really embraced my identity as a writer. I write almost everyday in some form—sometimes for work, often in my journal—and I’ve found that the more often I write, the better I feel about myself. It is central to my well-being.
+
+Having said that, my writing process is also all-encompassing. On good writing days, I become fully absorbed in writing and can become quite obsessive. On bad writing days (when I’m not able to put my thoughts clearly into words, or when I'm not progressing a certain piece as quickly as I'd planned), I get frustrated, easily annoyed, and defeatist, and those attitudes leak into other areas of my life. Over the course of my PhD, I've picked up a few strategies to improve the ratio of good to bad writing days:
+
+#### The early stages: Establishing a new writing project
+
+
+- **Follow a process.** Get on top of your information management systems (I am a massive fan of Evernote for this purpose). Keep things organised so you can quickly and efficiently find the reference or resource you want.
+- **Embrace the [shitty first draft](https://www.themarginalian.org/2013/11/22/bird-by-bird-anne-lamott/).** Bypass the mental filters and inner critics, and write without expectations.
+- Use writing as a means of **clarifying** your thinking.
+- **Start small.** Some days it seems too laborious to write a paragraph, so I start small by logging 10-minute blocks of free writing. A lot of what I write in these free writing blocks is complete junk, but it gets me started and gives me the momentum to do better writing later on :)
+- **Absorb to create.** If I am having trouble writing, it's usually because I am trying to write about something I don't know enough about. At times like this, I dive back into the literature, back into whatever relevant resources I can get my hands on. It takes the pressure off having to generate new ideas of my own, shifting the focus to learning and indulging my curiosities.
+- **When you give your work to others, have a clear purpose in mind.** What kind of feedback are you looking for: clarity, coherence, grammar? Why are you asking that specific person for feedback? Also make sure you ask for feedback from people you trust and respect, and who care about you! Having others critically evaluate your work is a vulnerable enough process as it is.
+- **Writing well is an ongoing experiment.** Try out new techniques, write in the presence of others who are also writing (e.g., run or attend a "Shut Up And Write" session). Go on solo writing retreats. Understand that writing habits that used to work for you might stop working for you, and to continue progressing as a writer, you have to adapt.
+
+#### The middle stages (i.e., the grunt work!)
+
+
+- If staring at a blank screen is not doing it for me, I revert to **pen and paper**. It makes the process more tangible and deliberate, characteristics which seem to transfer into the writing itself.
+- **Trust in your own resolve.** Resolve to finish something! Build momentum by getting a few small wins in order to finish off a big writing task.
+- **Be kind to yourself.** Try to work through challenges, but call it a bad day if it's a bad day. The key is to avoid flagellating yourself in the process. You can always try again tomorrow :)
+- **You don't HAVE to do it, you GET to do it.** Getting to do this work is a privilege. When I keep this at the front of my mind, I write from a place of gratitude, and the quality of my work improves without question. How you feel about a piece of writing comes through in your tone, your syntax, your attentiveness. Most importantly, the reader can tell that you care.
+- **Break big writing tasks into smaller and more manageable blocks.** I use Scrivener heavily in the early stages of a writing project to do this.
+- **Commit to extensive revisions.**
+
+#### The late stages: From good to great
+
+
+- **Step outside: Physically.** Step outside the office, get some sun, go for a walk, find a park bench and quietly observe the world around you. Or...
+- **Step outside: Metaphorically.** Step outside your discipline and your usual community of thinkers. I've found that lots of problems that seem unique to sports performance have commonalities with problems in other apparently distinct fields. My work as a sport scientist has benefited immensely from stepping outside sport. I've looked to astronomy, fiction and non-fiction writing, visual arts, and the performing arts, making connections between the problems encountered in these spheres and similar problems to be resolved in applied sport. I've also drawn inspiration from the way in which problems and solutions are framed in other professions, fields, and disciplines. After stepping outside, make sure you...
+- **Go back inside!** With a calmer mind and new perspectives, what does this all mean for you and your work?
+
+### Your top 10 productivity tips for PhD life
+
+**SB:**
+
+1. Decide what is vitally important to you, and cut yourself some slack with the rest.
+2. What is done when it is done? Is that paper done when you click "submit", or is it only really done once you have self-archived it and shared it on Twitter?
+3. Productivity apps (I use Asana and InstaGANTT)
+4. Go paperless, and use software that *you* find intuitive to your workflow.
+5. Shut Up And Write sessions using the pomodoro technique.
+6. Trust your process. Be aware of your procrastination habits, and use them to your benefit. Sometimes ideas need time to meld in your mind.
+7. You are not your PhD, it does not define you. Let it do the hard work, and allow yourself to just document it.
+8. Consider a PhD by publication. In the modern academic world of "publish or perish" this means that you publish peer-reviewed articles instead of writing a full thesis.
+9. Just write. No drama. No fanfare.
+10. Done is better than perfect. *(To be honest, during writing, JT reminded me of this one – and it is something that I actively need to stay aware of on a daily basis, so I added it to my list here too! Thanks JT!)*
+
+**JT:**
+
+1. Write everything down...especially your processes!
+2. Work to the appointed time. (Hat tip to [**Henry Miller!**](https://www.themarginalian.org/2012/02/22/henry-miller-on-writing/))
+3. Take active breaks and assuage your guilt by understanding that looking after yourself is integral to writing well. [**Good ideas requires incubation periods to become great ideas.**](https://www.fastcompany.com/3035811/the-key-to-creative-insight-interrupt-yourself)
+4. Know that there will be good days and bad days.
+5. Not all progress is quantifiable.
+6. Be social with your work. Float your ideas with trusted others, and give back when it’s your turn.
+7. Sleep. Going through life in a sleep-deprived haze is not cool and it's not good for your work or your health.
+8. Done is better than perfect.
+9. Know how you work. Are you the kind of person who likes to focus on one big project at a time? Or do you work better having the pressure and excitement of keeping multiple projects on-the-go?
+10. Be honest with and considerate of the people around you. **If you need help, ask for it.** Help might mean getting a fresh set of eyes on a piece of writing that you’ve been struggling with. Help might mean asking your partner or spouse to pick up your slack with house chores. If you're busy and stressed, own up to it! If you know you're grumpy, let it be known. Spend time with people who won’t judge you for being stressed and grumpy, but who also won't indulge your grumpiness and will help stabilise you.
